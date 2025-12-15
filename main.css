@@ -147,10 +147,6 @@
 .primary-button:hover {
   color: red;
 }
-/* .primary-button-url {
-  text-decoration: none;
-  color: black;
-} */
 .hero-content {
    margin-top: 6.3125rem;
    max-width: 30.375rem;
@@ -274,14 +270,10 @@
    font-size: 1.5rem;
    min-width: 100%;
 }
-
-/* Добавьте цвет фона к кнопке, если она нажата (добавьте класс .active с помощью JS) и при наведении на нее указателя мыши (наведите курсор мыши) */
 .active, .faq-question:hover {
    background-color: white;
    color: black;
 }
-
-/* Стиль панели аккордеона. Примечание: по умолчанию скрыто */
 .faq-answer {
   padding: 0 18px;
    background-color: RGB(25, 23, 22);
