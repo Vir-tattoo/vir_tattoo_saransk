@@ -555,6 +555,9 @@
    .album-thumbnail {
    width: 9rem;
 }
+   .review-platform-logo {
+      width: 9rem;
+   }
 
       .secondary-button {
   min-width: 18rem;
@@ -631,7 +634,11 @@
   }
      .album-thumbnail:hover{
       width: 9rem;
-       transform: none; 
+      transform: none; 
+   }
+      .review-platform-logo {
+      width: 9rem;
+      transform: none; 
    }
 }
 
